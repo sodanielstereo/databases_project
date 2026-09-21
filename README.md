@@ -1,6 +1,6 @@
 # Biblioteca — proyecto integrador
 
-Universidad del Valle · Bases de Datos · Equipo de cuatro integrantes.
+Universidad del Valle · Bases de Datos · Daniel Vallejo - Estebam Granada - Angela Zúñiga - Wilson Pinto.
 Estado: estructura inicial; modelo, SQL, API y GUI pendientes.
 
 ## Arquitectura
