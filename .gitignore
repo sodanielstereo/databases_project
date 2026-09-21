@@ -1,0 +1,19 @@
+# Configuración privada
+.env
+.env.*
+!.env.example
+# Dependencias y resultados
+node_modules/
+coverage/
+dist/
+*.log
+# Datos locales de servicios y copias
+postgres/data/
+pgadmin/data/
+backups/
+*.dump
+# Editor y sistema
+.vscode/
+.idea/
+.DS_Store
+*~
